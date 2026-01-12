@@ -1,17 +1,17 @@
 
 
-[![Qiang Wang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://wangxqiang21.github.io/)
+[![Qiang Wang](https://img.shields.io/badge/wangxqiang21-github-blue?logo=github&style=flat)](https://wangxqiang21.github.io/)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a M.E. student at the Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 
 #### Contact
 
 Email: wangxqiang21[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Intelligent Transportation Systems, Intelligent Transportation Systems Research Center, Wuhan University of Technology, 2024—Present.\
+B.E., Traffic Equipment and Control Engineering, School of Transportation, Chongqing Jiaotong University, 2020—2024.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Autonomous Driving; Multi-vehicle Cooperative Transportation; Cooperative Planning and Control.
 

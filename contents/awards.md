@@ -1,12 +1,7 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Beijing Regional Champion and National Champion, 2025 OnSite Autonomous Driving Networked Testing Real-Vehicle Competition (linked testing in Shanghai & Beijing), with Yuhao Du and Yaqing Zhang, 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Second-Class Scholarship (Wuhan University of Technology), 2024 & 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Outstanding Graduate (Chongqing Jiaotong University), 2024.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
